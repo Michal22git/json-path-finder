@@ -1,0 +1,59 @@
+{
+  "company": {
+    "name": "Acme Corporation",
+    "location": {
+      "country": "USA",
+      "city": "New York",
+      "address": {
+        "street": "123 Main Street",
+        "zipcode": "10001"
+      }
+    },
+    "departments": [
+      {
+        "name": "Sales",
+        "employees": [
+          {
+            "name": "Alice",
+            "age": 30,
+            "tasks": [
+              {
+                "task_id": "TASK001",
+                "description": "Follow up with leads"
+              },
+              {
+                "task_id": "TASK002",
+                "description": "Prepare sales reports"
+              }
+            ]
+          },
+          {
+            "name": "Bob",
+            "age": 28,
+            "tasks": [
+              {
+                "task_id": "TASK003",
+                "description": "Customer meetings"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "HR",
+        "employees": [
+          {
+            "name": "Charlie",
+            "age": 35,
+            "tasks": [
+              {
+                "task_id": "TASK004",
+                "description": "Recruitment"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

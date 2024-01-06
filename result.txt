@@ -1,0 +1,4 @@
+age: ["company"]["departments"][0]["employees"][0]["age"]
+age: ["company"]["departments"][0]["employees"][1]["age"]
+age: ["company"]["departments"][1]["employees"][0]["age"]
+HR: ["company"]["departments"][1]["name"]
